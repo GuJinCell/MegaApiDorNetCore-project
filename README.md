@@ -1,5 +1,18 @@
-# MegaMan Bosses API
-![Ícone do MegaMan Bosses API](\_docs\assets\icon.png)
+<h1 align="center">
+  <br />
+  <img
+    src="./_docs/assets/icon.png"
+    alt="Mega Man Robots API"
+    width="150"
+  />
+  <br />
+  <b>Mega Man Robots API</b>
+  <br />
+  <sub
+    ><sup><b>(MEGA-MAN-ROBOTS)</b></sup></sub
+  >
+  <br />
+  </h1>
 
 This repository contains a .NET Core-based API designed to manage and provide data about *MegaMan* bosses, serving as a backend for applications requiring this information in JSON format. This project leverages [.NET](https://dot.net) open source technologies to deliver a robust solution for listing MegaMan boss data in the following JSON format:
 ```json
